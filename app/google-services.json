@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213552515286",
+    "firebase_url": "https://locobiz-e9e79.firebaseio.com",
+    "project_id": "locobiz-e9e79",
+    "storage_bucket": "locobiz-e9e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213552515286:android:64f86c5df7e1cc3a",
+        "android_client_info": {
+          "package_name": "com.example.drazzer.locobiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213552515286-kj56f6vhga231gjtievh7bmjmk2ovmq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drazzer.locobiz",
+            "certificate_hash": "91ae8a6aec99d988f1c8ee0e940bac88cf57121e"
+          }
+        },
+        {
+          "client_id": "213552515286-0a6finm9a69pag6he7o2f5k13kvlso7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUXh4wkYIYJT9hekScwdtJO_KoWugJBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213552515286-0a6finm9a69pag6he7o2f5k13kvlso7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
