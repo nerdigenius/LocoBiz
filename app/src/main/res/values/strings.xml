@@ -2,4 +2,9 @@
     <string name="app_name">LocoBiz</string>
     <string name="title_activity_maps">Map</string>
     <string name="google_maps_key">AIzaSyBG2EDFYy_6AZKt5hLSyd4JM1X513xmFeg</string>
+    <color name="transparent">#00000000</color>
+    <string name="forgotpassword">Forgot Password? </string>
+    <string name="taphere"> <u>Tap here</u>.</string>
+    <string name="or">OR</string>
+    <string name="login">Login</string>
 </resources>
